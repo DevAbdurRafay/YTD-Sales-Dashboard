@@ -65,7 +65,7 @@ This Tableau-based dashboard offers dynamic and insightful visualizations of E-C
 <h2> Folder Structure</h2>
 
 <pre>
-ytd-sales-analysis
+YTD-Sales-Dashboard
 ├── Sales Dashboard.twbx
 ├── Sales Dashboard Image 1.jpg
 ├── Sales Dashboard Image 2.jpg
