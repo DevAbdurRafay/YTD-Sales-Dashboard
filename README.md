@@ -1,5 +1,4 @@
 <h1 align="center">E-Commerce Sales Dashboard</h1>
-
 <p align="center">
 It is a fully interactive E-Commerce YTD sales project made on Tableau Public that visualizes key metrics like sales, profit, and quantity across various markets and product categories.
 </p>
